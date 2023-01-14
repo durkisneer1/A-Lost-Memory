@@ -1,5 +1,4 @@
 # A-Lost-Memory
-===============
 
 Submission for the Pygame Community Halloween Game Jam 2022.
 Link -> https://durkisneer.itch.io/a-lost-memory
