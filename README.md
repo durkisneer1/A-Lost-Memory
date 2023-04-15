@@ -1,4 +1,4 @@
-# A-Lost-Memory
+# A Lost Memory
 
 Submission for the Pygame Community Halloween Game Jam 2022.
 
